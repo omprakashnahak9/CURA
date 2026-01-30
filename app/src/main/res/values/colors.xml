@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <color name="primary">@color/purple_500</color>
+    <color name="primary_variant">@color/purple_700</color>
+    <color name="on_primary">@color/white</color>
+    <color name="secondary">@color/teal_200</color>
+    <color name="on_secondary">@color/black</color>
+    <color name="background">@color/white</color>
+    <color name="surface">@color/white</color>
+    <!-- Landing Page Colors -->
+    <color name="colorOrangeAccent">#FF8A65</color>
+    <color name="colorTextPrimary">#9E9E9E</color>
+    <color name="colorTextSecondary">#4A4A4A</color>
+    <color name="colorBrandPurple">#7E57C2</color>
+    
+    <!-- Tagline Hierarchy -->
+    <color name="colorTextSoftGray">#B0B0B0</color>
+    <color name="colorTextLightGray">#9E9E9E</color>
+    <color name="colorTextDarkGray">#616161</color>
+
+    <!-- Login UI Colors -->
+    <color name="colorTextBlue">#2962FF</color>
+    <color name="colorTextSubtitle">#455A64</color>
+    <color name="colorDivider">#2962FF</color>
+    <color name="colorBtnBackground">#E0E0E0</color>
+    <color name="colorBtnText">#9E9E9E</color>
+
+    <!-- Home Screen Colors -->
+    <color name="color_accent_blue">#4D81F1</color>
+    <color name="color_bg_off_white">#F5F7FA</color>
+    <color name="color_text_header">#1A1A1A</color>
+    <color name="color_card_white">#FFFFFF</color>
+
+    <!-- Medicine Page Redesign -->
+    <color name="medicine_header_primary">#4D81F1</color>
+    <color name="medicine_header_secondary">#6E9CFF</color>
+    <color name="medicine_search_bg">#FFFFFF</color>
+    <color name="medicine_search_hint">#8F8F8F</color>
+    <color name="medicine_category_bg">#F0F4FF</color>
+    <color name="medicine_badge_discount">#4D81F1</color>
+    <color name="medicine_view_all">#0F75BC</color>
+    <color name="medicine_text_black">#1D1D1D</color>
+    <color name="medicine_text_gray">#666666</color>
+    <color name="medicine_best_deal_title">#1D1D1D</color>
+    <color name="medicine_best_deal_price">#1D1D1D</color>
+    <color name="medicine_best_deal_old_price">#8F8F8F</color>
+    <color name="medicine_best_deal_discount">#4D81F1</color>
+    <color name="medicine_best_deal_add_bg">#4D81F1</color>
+
+    <!-- Profile Page Colors -->
+    <color name="profile_header_bg">#EDF2FF</color>
+    <color name="profile_menu_icon">#4D81F1</color>
+    <color name="profile_login_blue">#2171CE</color>
+</resources>

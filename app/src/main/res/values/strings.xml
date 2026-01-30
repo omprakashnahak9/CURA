@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cura</string>
+    <string name="title_home">Dashboard</string>
+    <string name="title_caregiver">Caregiver</string>
+    <string name="title_medicine">Medicine</string>
+    <string name="title_profile">Profile</string>
+</resources>
