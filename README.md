@@ -7,9 +7,10 @@ A comprehensive Android application for healthcare management, caregiver hiring,
 ### 🚀 Current Features
 - **Splash Screen**: Engaging video splash screen with app branding
 - **Landing & Onboarding**: Interactive ViewPager2-based onboarding with 3 screens showcasing app features
+- **Login Screen**: Phone number input with country code selector and validation
 
 ### 🔄 In Development
-- **Authentication Flow**: Phone-based login with OTP verification
+- **OTP Verification**: Complete authentication with OTP and user details
 - **Home Dashboard**: Daily health tracking and SOP compliance
 - **Caregiver Hiring**: Browse and book professional caregivers
 - **Medicine Store**: Order medicines and healthcare products
@@ -69,7 +70,9 @@ git clone https://github.com/omprakashnahak9/CURA.git
 
 - [x] Phase 1: Project Setup & Splash Screen
 - [x] Landing & Onboarding Pages
-- [ ] Phase 2: Authentication (Login, OTP, User Details)
+- [x] Login Screen (Phone Number Input)
+- [ ] OTP Verification
+- [ ] User Details Form
 - [ ] Phase 3: Home Dashboard
 - [ ] Phase 4: Caregiver Hiring Section
 - [ ] Phase 5: Medicine Store
